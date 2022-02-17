@@ -12,7 +12,7 @@ redirect_from:
 
 PI/CoI projects
 ======
-* **University of Essex** (2019-2022)
+***University of Essex** (2019-2022)
 
    7.10/2021-10/2023: UAV and AI for rail trackside vegetation management, KTP project with Railscape, £188.63K, Knowledge based supervisor, Innovate UK.
   
@@ -29,7 +29,7 @@ PI/CoI projects
    1.Oct/2020-Jun/2021: Precision Detection and Control of Oriental Armyworm, Mythimna separata (Walker), Infected Maize by Drone Scouting Empowered Precise Drone Spraying Systems, STFC Food Network+ (SFN) Collaborative Scoping Project, PI, £500.
 
 
-* **Loughborough University** (2016--2019)
+***Loughborough University** (2016--2019)
 
    6.Mar/2019—Jul/2019: Persistent monitoring of invasive (aquatic) plants by machine learning powered Satellite/UAV remote sensing, Changing Environments and Infrastructure Challenge Seedcorn Funding, Loughborough University, £1500.
 
