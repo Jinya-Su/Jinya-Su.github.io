@@ -109,12 +109,9 @@ Journal reviewer (50+)
  12.	Functional Plant Biology,
 
 
-
-
-
 Conference reviewer (20+) 
 =====
-20+ conferences in Robotics and Autonomous Systems
+* 20+ conferences in Robotics and Autonomous Systems
 
 
 <!---
