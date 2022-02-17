@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinya Su / Personal Page"
+title                    : "Dr. Jinya Su"
 title_separator          : "-"
-name                     : &name "Jinya Su"
-description              : &description "personal description"
+name                     : &name "Dr. Jinya Su"
+description              : &description "Github homepage"
 url                      : https://jinya-su.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jinya-Su/jinya-su.github.io/"
@@ -83,7 +83,7 @@ author:
   name             : "Dr Jinya Su"
   avatar           : "profile.png"
   bio              : "  "
-  location         : "Location"
+  location         : "Earth currently"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tTfMHMoAAAAJ&hl=en"
