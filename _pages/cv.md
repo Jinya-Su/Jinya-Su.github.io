@@ -43,14 +43,6 @@ Selected awards and honors (since 2012)
 1. 2012-2015: **_EPSRC Full PhD Studentship_** (75K GBP: tuition fee + stipend) 
   
 <!---
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
