@@ -19,8 +19,6 @@ University of Essex
 | [Mr. Yucheng Wang](https://www.essex.ac.uk/people/wangy15006/yucheng-wang)|Apr/2021-Mar/2022 | [STFC project](/_portfolio\portfolio-1.md) | PhD student at  University of Essex|
 |[Mr. Jianxuan Cao](https://www.linkedin.com/in/jianxuan-c-bb5b56187/)|Jun/2021-Sep/2021 | [STFC project](https://gtr.ukri.org/projects?ref=ST%2FV00137X%2F1)| MS.c student at UCL|
 
-
-
 <!--https://jinya-su.github.io/portfolio/portfolio-1/#-->
 <!--- https://balancezhai.github.io/portfolio/protfolio-998/#)| --> 
 
