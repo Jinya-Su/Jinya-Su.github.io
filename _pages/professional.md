@@ -77,7 +77,7 @@ Journal reviewer (50+)
  25.	Recent Patens on Engineering,
  26.	International Journal of Modelling and Simulation
 
-* Intelligent systems
+* Intelligent systems (15)
  1.	IEEE Transactions on Intelligent Transportation Systems,
  2.	IEEE Transaction on Intelligent Vehicle,
  3.	IEEE Signal Processing Letter,
@@ -94,7 +94,7 @@ Journal reviewer (50+)
  14.	Complexity,
  15.	Infrastructure,
 
-* Remote sensing and precision agriculture
+* Remote sensing and precision agriculture (12)
  1.	ISPRS Journal of Photogrammetry and Remote Sensing,
  2.	IEEE Geoscience and Remote Sensing Letters,
  3.	Geocarto International,
@@ -111,8 +111,7 @@ Journal reviewer (50+)
 
 Conference reviewer (20+) 
 =====
-* 20+ conferences in Robotics and Autonomous Systems
-
+** 20+ conferences in Robotics and Autonomous Systems
 
 <!---
 
