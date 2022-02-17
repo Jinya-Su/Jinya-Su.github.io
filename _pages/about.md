@@ -17,6 +17,14 @@ redirect_from:
 - Intelligent Vehicle: AI based driving behaviour analysis; 
 - AI/Statistics in health management
 
+**Research group**
+2019-2022 [Robotics and Mechatronics Laboratory](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/robotics-and-embedded-systems/robotics-and-mechatronics-laboratory)
+2019-2022 [Robotics and Embedded Systems](http://www.lucasresearch.co.uk/)
+2012-2019 [Loughborough University Centre for Autonomous Systems](http://www.lucasresearch.co.uk/)
+
+**Academic motto**
+1. If you have two theories that both explain the observed facts, then you should use the simplest until more evidence comes along --Occam's razor
+2. Get the physics right, the rest is mathematics. --Rudolf E. Kálmán, on IFAC congress 2008.
 
 <!---
 **Vacancies**
