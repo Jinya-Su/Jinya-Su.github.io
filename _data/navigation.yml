@@ -10,11 +10,13 @@ main:
   - title: "Research"
     url: /portfolio/
 
-  - title: "Teaching"
-    url: /teaching/   
 
   - title: "Teams"
     url: /markdown/  
+
+
+#  - title: "Teaching"
+#    url: /teaching/   
 
 #  - title: "Talks"
 #    url: /talks/    
