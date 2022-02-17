@@ -46,20 +46,19 @@ PI/CoI projects
 
 Projects as a PhD student or PDRA (2012-2016)   
 ======
+  7.UK-China Agri-Tech Challenge-Utilizing Earth Observation and UAV Technologies to Deliver Pest and Disease Products and Services to End Users in China ([BB/S020977/1](https://gtr.ukri.org/projects?ref=BB%2FS020977%2F1)), PDRA. Funding body: Innovate UK/BBSRC, £1M, Time: Feb. 2019-Feb. 2012;  
 
- 7.UK-China Agri-Tech Challenge-Utilizing Earth Observation and UAV Technologies to Deliver Pest and Disease Products and Services to End Users in China ([BB/S020977/1](https://gtr.ukri.org/projects?ref=BB%2FS020977%2F1)), PDRA. Funding body: Innovate UK/BBSRC, £1M, Time: Feb. 2019-Feb. 2012;  
+  6.COSMIC P&D: Pest and Disease Emergence Prediction and Control for Sustainable Agriculture (PADEPSA), PDRA. Funding body: Newton fund, £600K. Time: Feb. 2018—Dec. 2019.
 
- 6.COSMIC P&D: Pest and Disease Emergence Prediction and Control for Sustainable Agriculture (PADEPSA), PDRA. Funding body: Newton fund, £600K. Time: Feb. 2018—Dec. 2019.
+  5.SFTS ATCNN: NeWMap: Enhanced farm-specific NutriEnt and Water stress Maps, PDRA. Funding body: Newton fund, £20K. Time: Mar. 2018—Jul. 2018.
 
- 5.SFTS ATCNN: NeWMap: Enhanced farm-specific NutriEnt and Water stress Maps, PDRA. Funding body: Newton fund, £20K. Time: Mar. 2018—Jul. 2018.
+  4.SFTC ATCNN: Highly Efficient Intelligent Irrigation Systems (PC003), PDRA. Funding body: Newton fund, £40K. Time: Apr. 2017—Aug. 2017.
 
- 4.SFTC ATCNN: Highly Efficient Intelligent Irrigation Systems (PC003), PDRA. Funding body: Newton fund, £40K. Time: Apr. 2017—Aug. 2017.
+  3.Enabling Wide Area Persistent Remote Sensing for Agriculture Applications([ST/N006852/1](https://gtr.ukri.org/projects?ref=ST%2FN006852%2F1)), PDRA. Funding body: Newton fund, £1.22 Million. Time: Jul. 2016—Dec. 2019.
 
- 3.Enabling Wide Area Persistent Remote Sensing for Agriculture Applications([ST/N006852/1](https://gtr.ukri.org/projects?ref=ST%2FN006852%2F1)), PDRA. Funding body: Newton fund, £1.22 Million. Time: Jul. 2016—Dec. 2019.
+  2.Towards More Autonomy for Unmanned Vehicles: Situational Awareness and Decision Making under Uncertainty. [EP/J011525/1](https://gtr.ukri.org/projects?ref=EP%2FJ011525%2F1), PDRA. Funding body: EPSRC and BAE Systems, £1 Million. Time: Mar. 2012—Feb. 2016.
 
- 2.Towards More Autonomy for Unmanned Vehicles: Situational Awareness and Decision Making under Uncertainty. [EP/J011525/1](https://gtr.ukri.org/projects?ref=EP%2FJ011525%2F1), PDRA. Funding body: EPSRC and BAE Systems, £1 Million. Time: Mar. 2012—Feb. 2016.
-
- 1.Development of Arduino Based Motor Control System. PDRA. Funding body: Loughborough University, £5K. Time: July. 2014—Oct. 2014.
+  1.Development of Arduino Based Motor Control System. PDRA. Funding body: Loughborough University, £5K. Time: July. 2014—Oct. 2014.
 
   
 <!---
