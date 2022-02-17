@@ -46,7 +46,6 @@ PI/CoI projects
 
 Projects as a PhD student or PDRA (2012-2016)   
 ======
-*  
 
    7.UK-China Agri-Tech Challenge-Utilizing Earth Observation and UAV Technologies to Deliver Pest and Disease Products and Services to End Users in China ([BB/S020977/1](https://gtr.ukri.org/projects?ref=BB%2FS020977%2F1)), PDRA. Funding body: Innovate UK/BBSRC, £1M, Time: Feb. 2019-Feb. 2012;  
 
