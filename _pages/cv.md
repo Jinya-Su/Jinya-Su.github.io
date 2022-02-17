@@ -40,7 +40,7 @@ Selected awards and honors (since 2012)
 
 2. 2013: Best Student Paper Award of control applications on 19th International Conference on Automation and Computing, London
 
-1. 2012-2015: EPSRC Full PhD Studentship (75K GBP: tuition fee + stipend) 
+1. 2012-2015: **_EPSRC Full PhD Studentship_** (75K GBP: tuition fee + stipend) 
   
 <!---
 Skills
