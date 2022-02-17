@@ -17,15 +17,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, Loughborough University, U.K., Jan. 2017—May. 2019;
+* Part-time Research Associate in Autonomous Vehicles, Loughborough University, U.K., Oct. 2015—Dec. 2016;
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+ 
   
 <!---
 Skills
