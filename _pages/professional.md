@@ -43,9 +43,9 @@ PhD external examiner
 
 Member of Program Committee(PC)
 ====
-1.	17th IEEE International Conference on Networking, Sensing and Control (ICNSC), 7-10 Mar. 2020, Nanjing, China. 
-2.	2016 IEEE International Conference on Information and Automation, 1-3 Aug. 2016, Ningbo, China.
-3.	2019 International Conference on Cyber-Living, Cyber-Syndrome and Cyber-Health (CyberLife 2019). 
+1. 17th IEEE International Conference on Networking, Sensing and Control (ICNSC), 7-10 Mar. 2020, Nanjing, China. 
+2. 2016 IEEE International Conference on Information and Automation, 1-3 Aug. 2016, Ningbo, China.
+3. 2019 International Conference on Cyber-Living, Cyber-Syndrome and Cyber-Health (CyberLife 2019). 
 
 Journal reviewer (50+)
 =====
@@ -59,9 +59,9 @@ Journal reviewer (50+)
  7.	Control Engineering Practise, 
  8.	System and Control Letter, 
  9.	International Journal of Control, 
- 10.	International Journal of Robust and Nonlinear Control,
- 11.	IET Control Theory & Applications,
- 12.	Aerospace Science and Technology,
+ 10. International Journal of Robust and Nonlinear Control,
+ 11. IET Control Theory & Applications,
+ 12. Aerospace Science and Technology,
  13.	ISA Transactions,
  14.	Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering, 
  15.	Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering,
