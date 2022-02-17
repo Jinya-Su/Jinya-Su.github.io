@@ -23,7 +23,7 @@ Work experience
 
 Selected awards and honors (since 2012)
 ======
-   10.2020: **_Early Career Researcher Awards_** (one of the three recipients in the University), [University of Essex’s Celebrating Excellence in Research and Impact Awards 2020](https://www.essex.ac.uk/research/celebrating-our-researchers/2020).
+   $~$ 10.2020: **_Early Career Researcher Awards_** (one of the three recipients in the University), [University of Essex’s Celebrating Excellence in Research and Impact Awards 2020](https://www.essex.ac.uk/research/celebrating-our-researchers/2020).
 
    9.2020: **_Most cited Automatica_** Articles (2012 to date, 22/25 Articles in total).
 
