@@ -11,14 +11,19 @@ redirect_from:
 
 Editorial board
 ====
+* Unmanned Aerial Systems (UASs and UAVs) (specialty section of Frontiers in Remote Sensing),
+* Complexity
+
 
 Guest editor
 ======
+1.	Jun Yang, Chuanlin Zhang, Jianliang Mao, Jinya Su, “Special Issue on Intelligent Perception and Advanced Control of Robotics and Autonomous Systems Under Uncertainties: Methodologies and Implementations”, Transactions of the Institute of Measurement and Control (TIMC), (IF: 1.796).
+2.	Jinya Su, Cunjia Liu and Clark Adrian “Remote Sensing for Smart Agriculture Management”, Remote Sensing (IF: 4.5),
+3.	Hao Hu, Jinya Su, Jingdong Ma, “Internet Hospital Innovation: Technology, Service, and Policy”, Frontiers in Public Health (section: digital public health),
+4.	Shengquan Li, Wenchao Xue, Jun Yang and Jinya Su, “Special Collection on Disturbance/Uncertainty Estimation Based Control Method in Industrial Control Systems”, Measurement and Control (SAGE), (IF: 1.229), 
 
 Book reviewer
 ======
-
-
 
 Proposal reviewer
 ======
