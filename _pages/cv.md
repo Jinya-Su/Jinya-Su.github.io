@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD in Aeronautical & Automotive Engineering, Loughborough University, U.K., Dec. 2016 
-  * Prof. [Wen-Hua Chen] (https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/) (EPSRC Established Career Fellowship, IEEE/IET/FIMechE Fellow)
+  * Prof. [Wen-Hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/) (EPSRC Established Career Fellowship, IEEE/IET/FIMechE Fellow)
 * Bachelor in Applied Mathematics, Shandong University, China, Jul. 2011
 
 Work experience
