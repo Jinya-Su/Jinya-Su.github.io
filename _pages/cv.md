@@ -20,21 +20,22 @@ Work experience
 * Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, Loughborough University, U.K., Jan. 2017—May. 2019
 * Part-time Research Associate in Autonomous Vehicles, Loughborough University, U.K., Oct. 2015—Dec. 2016
 
+
 Selected awards and honors (since 2012)
 ======
-10. 2020: **_Early Career Researcher Awards_** (one of the three recipients in the University), [University of Essex’s Celebrating Excellence in Research and Impact Awards 2020](https://www.essex.ac.uk/research/celebrating-our-researchers/2020).
+10.2020: **_Early Career Researcher Awards_** (one of the three recipients in the University), [University of Essex’s Celebrating Excellence in Research and Impact Awards 2020](https://www.essex.ac.uk/research/celebrating-our-researchers/2020).
 
-9. 2020: **_Most cited Automatica_** Articles (2012 to date, 22/25 Articles in total).
+9.2020: **_Most cited Automatica_** Articles (2012 to date, 22/25 Articles in total).
 
-8. 2019: Loughborough University PDR **_Exceptional Performance Award_**, £1660.
+8.2019: Loughborough University PDR **_Exceptional Performance Award_**, £1660.
 
-7. 2019: **_Santander Mobility Awards_** (£1500) for international visiting and cooperation, Loughborough University. (Xi'an Jiaotong and Northwest A&F University).
+7.2019: **_Santander Mobility Awards_** (£1500) for international visiting and cooperation, Loughborough University. (Xi'an Jiaotong and Northwest A&F University).
 
-6. 2018: **_Outstanding reviewer_** for ISPRS Journal of Photogrammetry and Remote Sensing; Future Generation Computer Systems
+6.2018: **_Outstanding reviewer_** for ISPRS Journal of Photogrammetry and Remote Sensing; Future Generation Computer Systems
 
-5. 2016: **_Chinese Government Award_** for Outstanding Self-Financed Students Abroad (6000 USD, the highest honour from China Government for students abroad, totally 31 recipients in U.K. and 500 worldwide in 2016)
+5.2016: **_Chinese Government Award_** for Outstanding Self-Financed Students Abroad (6000 USD, the highest honour from China Government for students abroad, totally 31 recipients in U.K. and 500 worldwide in 2016)
 
-4. 2016: **_Annual ICI Best Paper Award_**: Transactions of the Institute of Measurement and Control, Institute of Measurement and Control
+4.2016: **_Annual ICI Best Paper Award_**: Transactions of the Institute of Measurement and Control, Institute of Measurement and Control
 
 3.2016: Association of British Turkish Academics (ABTA) **_Doctoral Researcher Awards_**, U.K. Category: Engineering Sciences
 
