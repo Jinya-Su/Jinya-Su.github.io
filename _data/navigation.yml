@@ -4,11 +4,11 @@ main:
   - title: "Biography"
     url: /cv/
 
+  - title: "Research projects"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Research"
-    url: /portfolio/
 
 
   - title: "Teams"
