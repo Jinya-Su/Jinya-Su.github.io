@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* PhD in Aeronautical & Automotive Engineering, Loughborough University (Top 10 UK University), U.K., Dec. 2016 
+* PhD in Aeronautical & Automotive Engineering, **Loughborough University** (Top 10 UK University), U.K., Dec. 2016 
   * Supervisors: Prof. [Wen-Hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/) (EPSRC Established Career Fellowship, IEEE/IET/FIMechE Fellow) and Prof. [Baibing Li](https://www.lboro.ac.uk/departments/sbe/staff/baibing-li/)
-* Bachelor in Applied Mathematics, Shandong University, China, Jul. 2011
+* Bachelor in Applied Mathematics, **Shandong University**, China, Jul. 2011
 
 Work experience
 ======
@@ -36,11 +36,11 @@ Selected awards and honors (since 2012)
 
 4. 2016: **_Annual ICI Best Paper Award_**: Transactions of the Institute of Measurement and Control, Institute of Measurement and Control
 
-3. 2016: Association of British Turkish Academics (ABTA) **_Doctoral Researcher Awards_**, U.K. Category: Engineering Sciences
+3.2016: Association of British Turkish Academics (ABTA) **_Doctoral Researcher Awards_**, U.K. Category: Engineering Sciences
 
-2. 2013: **_Best Student Paper Award_** of control applications on 19th International Conference on Automation and Computing, London
+2.2013: **_Best Student Paper Award_** of control applications on 19th International Conference on Automation and Computing, London
 
-1. 2012-2015: **_EPSRC Full PhD Studentship_** (75K GBP: tuition fee + stipend) 
+1.2012-2015: **_EPSRC Full PhD Studentship_** (75K GBP: tuition fee + stipend) 
   
 <!---
 
