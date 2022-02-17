@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Aeronautical & Automotive Engineering, Loughborough University, U.K., Dec. 2016 
+  * Prof. [Wen-Hua Chen] (https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/) (EPSRC Established Career Fellowship, IEEE/IET/FIMechE Fellow)
+* Bachelor in Applied Mathematics, Shandong University, China, Jul. 2011
 
 Work experience
 ======
@@ -27,6 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+<!---
 Skills
 ======
 * Skill 1
@@ -57,3 +58,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+-->  
