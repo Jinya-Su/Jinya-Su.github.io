@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Core Research Interests
+======
+- Intelligent autonomous systems: situational awareness and robust control under uncertainties;
+- Aerial Robotics for industrial (solar farm, rail trackside vegetation) inspection; 
+- Satellite/UAV/Ground remote/proximal sensing for precision agriculture; 
+- Intelligent Vehicle: AI based driving behaviour analysis; 
+- AI/Statistics in health management
 
 Publications (2013-now)
 ======
