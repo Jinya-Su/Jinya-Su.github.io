@@ -25,6 +25,7 @@ He has published 50+ journal (40+) and conference papers in Control Engineering,
 1. If you have two theories that both explain the observed facts, then you should use the simplest until more evidence comes along --Occam's razor
 2. Get the physics right, the rest is mathematics. --Rudolf E. Kálmán, on IFAC congress 2008.
 
+
 <!---
 **Vacancies**
 - For RA posts, see [University of Essex vacancies](https://www1.essex.ac.uk/vacancies/categories.aspx?jobtype=education).
