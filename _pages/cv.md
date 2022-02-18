@@ -11,19 +11,23 @@ redirect_from:
 
 Education
 ======
+
 * PhD in Aeronautical & Automotive Engineering, **Loughborough University** (Top 10 UK University), U.K., Dec. 2016 
   * Supervisors: Prof. [Wen-Hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/) (EPSRC Established Career Fellowship, IEEE/IET/FIMechE Fellow) and Prof. [Baibing Li](https://www.lboro.ac.uk/departments/sbe/staff/baibing-li/)
+
 * Bachelor in Applied Mathematics, **Shandong University**, China, Jul. 2011
 
 Work experience
 ======
+
 * Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, Loughborough University, U.K., Jan. 2017—May. 2019
+
 * Part-time Research Associate in Autonomous Vehicles, Loughborough University, U.K., Oct. 2015—Dec. 2016
 
 
 Selected awards and honors (since 2012)
 ======
-   10. 2020: **_Early Career Researcher Awards_** (one of the three recipients in the University), [University of Essex’s Celebrating Excellence in Research and Impact Awards 2020](https://www.essex.ac.uk/research/celebrating-our-researchers/2020).
+   10. 2020: [**_Early Career Researcher Awards_**](https://www.essex.ac.uk/research/celebrating-our-researchers/2020) (one of the three recipients in the University).
 
    9. 2020: **_Most cited Automatica_** Articles (2012 to date, 22/25 Articles in total).
 
