@@ -33,11 +33,11 @@ Selected awards and honors (since 2012)
 
    6. 2018: **_Outstanding reviewer_** for ISPRS Journal of Photogrammetry and Remote Sensing; Future Generation Computer Systems
 
-   5. 2016: **_Chinese Government Award_** for Outstanding Self-Financed Students Abroad (6000 USD, the highest honour from China Government for students abroad, totally 31 recipients in U.K. and 500 worldwide in 2016)
+   5. 2016: [**_Chinese Government Award_** for Outstanding Self-Financed Students Abroad](http://www.chinese-embassy.org.uk/dssghd/2016nian/201605/t20160520_3375996.htm) (6000 USD, the highest honour from China Government for students abroad, totally 31 recipients in U.K. and 500 worldwide in 2016)
 
    4. 2016: **_Annual ICI Best Paper Award_**: Transactions of the Institute of Measurement and Control, Institute of Measurement and Control
 
-   3. 2016: Association of British Turkish Academics (ABTA) **_Doctoral Researcher Awards_**, U.K. Category: Engineering Sciences
+   3. 2016: Association of British Turkish Academics (ABTA) [**_Doctoral Researcher Awards_**](https://www.abtanet.org.uk/events/22), U.K. Category: Engineering Sciences
 
    2. 2013: **_Best Student Paper Award_** of control applications on 19th International Conference on Automation and Computing, London
 
