@@ -18,7 +18,11 @@ main:
   - title: "Activities"
     url: /professional/   
 
+  - title: "Techniques"  
+    url: /techniques/
 
+  - title: "Datasets"  
+    url: /datasets/
 
   - title: "Links"  
     url: /interesting/
