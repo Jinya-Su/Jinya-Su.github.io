@@ -10,14 +10,8 @@ redirect_from:
 
 [Dr Jinya Su](https://www.essex.ac.uk/people/sujin68001/jinya-su) is a Lecturer in Robotics and AI in School of Computer Science and Eletronic Engineering at University of Essex (UoE) from 2019. He received the PhD degree in Aeronautical and Automotive Engineering, Loughborough University, U.K. in 2016, where his PhD study was fully funded by EPSRC/BAE System PhD studentship. He was a Postdoc at [LUCAS Group](http://www.lucasresearch.co.uk/) from Oct/2015-Jul/2019. 
 
-He has published 50+ journal (40+) and conference papers in Control Engineering, AI and robotics and their applications in industrial inspection. He has received the Outstanding Early Career Researcher Award from UoE (2020). He was a guest editor for IEEE, SAGE, Frontier journals/Remote Sensing, Book reviewer for Elsevier and CRC press; proposal reviewer for EPSRC and BARD. Please check [Biography](/_pages/cv.md) for more information. 
+He has published 50+ journal (40+) and conference papers in Control Engineering, AI and robotics and their applications in industrial inspection. He has received the Outstanding Early Career Researcher Award from UoE (2020). He was a guest editor for IEEE, SAGE, Frontier journals/Remote Sensing, Book reviewer for Elsevier and CRC press; proposal reviewer for EPSRC and BARD. Please check [Biography](https://jinya-su.github.io//cv/) for more information. 
 
-**Core Research Interests:**
-- Intelligent autonomous systems: situational awareness and robust control under uncertainties;
-- Aerial Robotics for industrial (solar farm, rail trackside vegetation) inspection; 
-- Satellite/UAV/Ground remote/proximal sensing for precision agriculture; 
-- Intelligent Vehicle: AI based driving behaviour analysis; 
-- AI/Statistics in health management
 
 **Research group**
 
