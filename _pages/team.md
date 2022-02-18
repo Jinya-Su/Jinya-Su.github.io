@@ -7,6 +7,17 @@ redirect_from:
   - /team.md
 ---
 
+
+Research group
+=====
+
+* 2019-2022 [Robotics and Mechatronics Laboratory](https://www.essex.ac.uk/departments/computer-science-and-electronic-engineering/research/robotics-and-embedded-systems/robotics-and-mechatronics-laboratory)
+
+* 2019-2022 [Robotics and Embedded Systems](http://www.lucasresearch.co.uk/)
+
+* 2012-2019 [Loughborough University Centre for Autonomous Systems](http://www.lucasresearch.co.uk/)
+
+
 University of Essex
 ====
 ## RAs
