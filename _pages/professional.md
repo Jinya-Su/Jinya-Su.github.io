@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Professional activities"
 permalink: /professional/
 author_profile: true
 redirect_from:
