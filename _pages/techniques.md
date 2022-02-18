@@ -38,7 +38,6 @@ Satellite/UAV/Agriculture
 * [Machine learning for disater response](https://eng.ox.ac.uk/case-studies/a-machine-learning-revolution-in-disaster-response/)
 
 
-
 <!---
 
 Publications
