@@ -12,6 +12,7 @@ redirect_from:
 Interesting links
 ======
 * [Top computer science scientists in United Kingdom](https://research.com/scientists-rankings/computer-science/gb)
+* ![My helpful screenshot](/images/yaofupo.JPG)
 
 Researchers
 ======
