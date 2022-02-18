@@ -111,7 +111,7 @@ Journal reviewer (50+)
 
 Conference reviewer (20+) 
 =====
-** 20+ conferences in Robotics and Autonomous Systems
+* 20+ conferences in Robotics and Autonomous Systems
 
 <!---
 
