@@ -27,17 +27,6 @@ Techniques
     * [NVIDIA Jetson Xavier NX 开发套件刷机教程](https://blog.csdn.net/zbb297918657/article/details/106390209)
 
 
-Satellite/UAV/Agriculture
-=====
-* [satellite image deep learning](https://github.com/robmarkcole/satellite-image-deep-learning#datasets)
-* [CV for global challenges](https://www.cv4gc.org/cv4a2020/)
-* [Earth observing system](https://eos.com/blog/drones-in-agriculture-make-way-for-satellite-monitoring/)
-* [Plant village](https://plantvillage.psu.edu/)
-* [CV for PA](rsipvision.com/precise-agriculture/)
-* [Kaggle](https://www.kaggle.com/datasets)
-* [Machine learning for disater response](https://eng.ox.ac.uk/case-studies/a-machine-learning-revolution-in-disaster-response/)
-
-
 <!---
 
 Publications
