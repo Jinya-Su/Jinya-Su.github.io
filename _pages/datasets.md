@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Machine learning
+====
+* [UCI machine learning repository](https://archive.ics.uci.edu/ml/index.php)
+* [Kaggle](https://www.kaggle.com/datasets)
 
 Satellite/UAV/Agriculture
 =====
@@ -17,7 +21,6 @@ Satellite/UAV/Agriculture
 * [Earth observing system](https://eos.com/blog/drones-in-agriculture-make-way-for-satellite-monitoring/)
 * [Plant village](https://plantvillage.psu.edu/)
 * [CV for PA](rsipvision.com/precise-agriculture/)
-* [Kaggle](https://www.kaggle.com/datasets)
 * [Machine learning for disater response](https://eng.ox.ac.uk/case-studies/a-machine-learning-revolution-in-disaster-response/)
 
 
