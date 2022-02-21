@@ -17,7 +17,7 @@ Education
 
 * Bachelor in Applied Mathematics, **Shandong University**, China, Jul. 2011
 
-Work experience
+Employment
 ======
 * Lecturer in AI and Robotics,  School of Computer Science and Electronic Engineering, **University of Essex**, U.K. Sep/2019--Apr/2022
 
@@ -26,18 +26,16 @@ Work experience
 * Part-time Research Associate in Autonomous Vehicles, **Loughborough University**, U.K., Oct/2015—Dec/2016
 
 
-Selected awards and honors (since 2012)
+Selected honors and awards (since 2012)
 ======
 
-   10. 2020: [**_Early Career Researcher Awards_**](https://www.essex.ac.uk/research/celebrating-our-researchers/2020) (one of the three recipients in the University).
+   9. 2020: [**_Early Career Researcher Awards_**](https://www.essex.ac.uk/research/celebrating-our-researchers/2020) (one of the three recipients in the University).
 
-   9. 2020: **_Most cited Automatica_** Articles (2012 to date, 22/25 Articles in total).
+   8. 2020: **_Most cited Automatica_** Articles (2012 to date, 22/25 Articles in total).
 
-   8. 2019: Loughborough University PDR **_Exceptional Performance Award_**, £1660.
+   7. 2019: Loughborough University PDR **_Exceptional Performance Award_**, £1660.
 
-   7. 2019: **_Santander Mobility Awards_** (£1500) for international visiting and cooperation, Loughborough University. (Xi'an Jiaotong and Northwest A&F University).
-
-   6. 2018: **_Outstanding reviewer_** for ISPRS Journal of Photogrammetry and Remote Sensing; Future Generation Computer Systems
+   6. 2019: **_Santander Mobility Awards_** (£1500) for international visiting and cooperation, Loughborough University. (Xi'an Jiaotong and Northwest A&F University).
 
    5. 2016: [**_Chinese Government Award_** for Outstanding Self-Financed Students Abroad](http://www.chinese-embassy.org.uk/dssghd/2016nian/201605/t20160520_3375996.htm) (6000 USD, the highest honour from China Government for students abroad, totally 31 recipients in U.K. and 500 worldwide in 2016)
 
@@ -47,7 +45,7 @@ Selected awards and honors (since 2012)
 
    2. 2013: **_Best Student Paper Award_** of control applications on 19th International Conference on Automation and Computing, London
 
-   1. 2012-2015: **_EPSRC Full PhD Studentship_** (75K GBP: tuition fee + stipend) 
+   1. 2012: **_EPSRC Full PhD Studentship_** (75K GBP: tuition fee + stipend) 
   
 <!---
 
