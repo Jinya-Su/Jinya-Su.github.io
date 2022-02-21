@@ -19,15 +19,16 @@ Education
 
 Work experience
 ======
-* Lecturer in AI and Robotics,  School of Computer Science and Electronic Engineering, University of Essex, U.K. Sep/2019--Apr/2022
+* Lecturer in AI and Robotics,  School of Computer Science and Electronic Engineering, **University of Essex**, U.K. Sep/2019--Apr/2022
 
-* Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, Loughborough University, U.K., Jan. 2017—May. 2019
+* Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, **Loughborough University**, U.K., Jan/2017—Jul/2019
 
-* Part-time Research Associate in Autonomous Vehicles, Loughborough University, U.K., Oct. 2015—Dec. 2016
+* Part-time Research Associate in Autonomous Vehicles, **Loughborough University**, U.K., Oct/2015—Dec/2016
 
 
 Selected awards and honors (since 2012)
 ======
+
    10. 2020: [**_Early Career Researcher Awards_**](https://www.essex.ac.uk/research/celebrating-our-researchers/2020) (one of the three recipients in the University).
 
    9. 2020: **_Most cited Automatica_** Articles (2012 to date, 22/25 Articles in total).
