@@ -20,7 +20,7 @@ Research group
 
 University of Essex
 ====
-## RAs
+## Research officer (or associate)
 
 |Names|Years |Projects|Now|
 |---|---|---|
