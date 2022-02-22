@@ -16,6 +16,8 @@ Techniques
     * [OpenCV python in 4 hours](https://www.youtube.com/watch?v=oXlwWbU8l2o)
 
 * R program
+    * [Step 1 download R](https://cran.r-project.org/bin/windows/base/); [Step 2 download RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+    
     * [R from Dr Alexandra Chouldechova](https://www.andrew.cmu.edu/user/achoulde/)
 
 * Matlab/Simulink
