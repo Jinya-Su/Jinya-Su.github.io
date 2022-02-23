@@ -11,6 +11,13 @@ redirect_from:
 
 
 Techniques
+
+====
+* Python
+  * [Install Anaconda](https://www.youtube.com/watch?v=5mDYijMfSzs)
+  * [Install Pycharm IDE](https://www.youtube.com/watch?v=SZUNUB6nz3g)
+  
+
 ======
 * CV
     * [OpenCV python in 4 hours](https://www.youtube.com/watch?v=oXlwWbU8l2o)
