@@ -17,7 +17,7 @@ Techniques
   * [Install Anaconda](https://www.youtube.com/watch?v=5mDYijMfSzs)
   * [Install Pycharm IDE](https://www.youtube.com/watch?v=SZUNUB6nz3g)
   * [Setup Python interpreter](https://www.youtube.com/watch?v=e53lRPmWrMI)
-  * [Create new environment](stackoverflow.com/questions/58568175/upgrade-to-python-3-8-using-conda)
+  * [Create new environment](https://stackoverflow.com/questions/58568175/upgrade-to-python-3-8-using-conda)
 
 
 * CV
