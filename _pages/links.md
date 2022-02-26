@@ -13,6 +13,7 @@ Interesting links
 ======
 * [Top computer science scientists in United Kingdom](https://research.com/scientists-rankings/computer-science/gb)
 * 吕蒙正 [破窑赋](http://people.brunel.ac.uk/~csstzzw/bad.html) ![My helpful screenshot](/images/yaofupo.JPG)
+* 张载：横渠四句 [破窑赋](http://people.brunel.ac.uk/~csstzzw/bad.html) ![My helpful screenshot](/images/zhangzai.JPG)
 
 Researchers
 ======
