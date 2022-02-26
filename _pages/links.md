@@ -20,8 +20,6 @@ Researchers
 * [Jonathan P. How](http://www.mit.edu/~jhow/)
 * [Richard M. Murray](https://murray.cds.caltech.edu/Main_Page?title=Main_Page)
 
-
-
 <!---
 
 Publications
