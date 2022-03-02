@@ -19,7 +19,7 @@ Education
 
 Employment
 ======
-* Lecturer in AI and Robotics,  School of Computer Science and Electronic Engineering, **University of Essex**, U.K. Sep/2019--Apr/2022
+* Lecturer in AI and Robotics,  School of Computer Science and Electronic Engineering, **University of Essex**, U.K. Sep/2019--now
 
 * Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, **Loughborough University**, U.K., Jan/2017—Jul/2019
 
