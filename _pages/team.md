@@ -35,6 +35,6 @@ University of Essex
 
 ## PhD students
 
-| Names                   | Years            | Projects      |
-| --------                | ---------------- | ------------------------------------------------------------ |
-| [Mrs. Haidee Tang](https://www.essex.ac.uk/people/TANGH63502) | Oct/2021 - Oct/2025   | [Using climatic and imaging data to predict apple fruit ripeness](https://www.ctp-fcr.org/machine-learning/) |
+| Names                   | Years            | Projects      | Previous
+| --------                | ---------------- | ----------------------------------------- | |
+| [Mrs. Haidee Tang](https://www.essex.ac.uk/people/TANGH63502) | Oct/2021 - Oct/2025   | [Using climatic and imaging data to predict apple fruit ripeness](https://www.ctp-fcr.org/machine-learning/) | M.Sc at University of Auckland|
