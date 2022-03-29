@@ -14,12 +14,12 @@ Core Research Interests
 - Intelligent autonomous systems: situational awareness and robust control under uncertainties;
 - Aerial Robotics for industrial inspection (solar farm, rail trackside vegetation); 
 - Satellite/UAV/Ground remote/proximal sensing for precision agriculture; 
-- Intelligent Vehicle: AI based driving behaviour analysis; 
-- AI/Statistics in health management
+- Intelligent Vehicle: AI based driving behaviour analysis (minior); 
+- AI/Statistics in health management (minor)
 
 Publications (2013-now)
 ======
-(please refer to [google scholar](https://scholar.google.com/citations?user=tTfMHMoAAAAJ&hl=en) or [researchgate](https://www.researchgate.net/profile/Jinya-Su))
+47 journal papers as of Apr/2022 (please refer to [google scholar](https://scholar.google.com/citations?user=tTfMHMoAAAAJ&hl=en) or [researchgate](https://www.researchgate.net/profile/Jinya-Su) for full list)
 
 
 PI/CoI projects
