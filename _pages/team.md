@@ -15,7 +15,7 @@ Research group
 
 * 2012-2019 [Loughborough University Centre for Autonomous Systems](http://www.lucasresearch.co.uk/)
 
-* 2011-2012 [东南大学机电控制系统实验室](http://www.seumscl.com/)
+<!--* 2011-2012 [东南大学机电控制系统实验室](http://www.seumscl.com/)-->
 
 
 University of Essex
