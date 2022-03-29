@@ -22,7 +22,7 @@ Guest editor
 
 4. Shengquan Li, Jinya Su, Huimin Ouyang, “[Special Issue on Control in Mechanical-electrical Energy Conversion System](https://www.mdpi.com/journal/energies/special_issues/Mechanical_electrical_Energy_Conversion_System)” , Energies, (IF: 3.004). Deadline: 1/Dec/2022. 
 
-3.	Jinya Su, Cunjia Liu and Clark Adrian [Remote Sensing for Smart Agriculture Management](https://www.mdpi.com/journal/remotesensing/special_issues/smart_agri_management), Remote Sensing (IF: 4.5), Deadline: 31-Mar-2022
+3.	Jinya Su, Cunjia Liu and Clark Adrian [Remote Sensing for Smart Agriculture Management](https://www.mdpi.com/journal/remotesensing/special_issues/smart_agri_management), Remote Sensing (IF: 4.5), Deadline: 30-May-2022
 
 2.	Hao Hu, Jinya Su, Jingdong Ma, “[Internet Hospital Innovation: Technology, Service, and Policy](https://www.frontiersin.org/research-topics/14612/smart-hospital-innovation-technology-service-and-policy)”, Frontiers in Public Health (section: digital public health), closed.
 
