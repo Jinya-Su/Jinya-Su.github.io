@@ -12,7 +12,7 @@ redirect_from:
 Please read below carefully before contacting me for a possible supervision request. 
 
 
-1. Are you accepting PhD students?
+1.  **Are you accepting PhD students?**
 
 Yes, I am. Now I am a bit careful before accepting one given I already have a big team to handle including my research.
 
