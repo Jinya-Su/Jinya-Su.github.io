@@ -53,22 +53,17 @@ Yes. Please feel free to contact me if you want to visit me. But this is general
 NO. The correct procedure is to apply to our PhD programme, pass the interview if shortlisted, and based on your performance in your interview, you will be offered an acceptance letter or not. I can NOT just recommend you for a place bypassing all formal requirements.
 
 11. **What is like by working with you?**
-  * You are free to explore the research topic which you are most passionate about.
-  * You are free to build your collaborative research network.
-  * I will ever push you in publishing your findings in top publication venues. I will encourage you to attend conferences regularly.
-  * You will be encouraged to propose novel mathematical models; and training, if you are already not an expert in proposing novel computational methods.
-  * I will be closely intertwined to your work: you won't feel ignored!
-  * A chance to work with my collaborative network comprising of very talented researchers.
+  * You are free to explore the research topic widely and responsibly.
+  * A chance to work with my collaborative network both nationally and internationally.
+  * I will help you in disseminating your research findings in top publication venues. 
+  * I will offer you suitable part-time research associate position via the research funding.
 
 
 12. **Who is an ideal PhD student in your eyes?**
-  * Hard working
-  * Passionate
+  * Well motivated 
+  * Ready to learn 
   * Dedicated
-  * Motivated
-  * Mentally strong
-  * Smiles on failures, but knows how to defeat failure
-  * Exercises everyday
+  * Responsible
 
 13. **How can I contact you?**
 E-mail at jinya.su@abdn.ac.uk 
