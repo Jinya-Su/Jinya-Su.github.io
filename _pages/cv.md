@@ -21,7 +21,7 @@ Employment
 ======
 * Senior Lecturer, Department of Computing Science,  **University of Aberdeen**, U.K. 2022--now
 
-* Hononary Senior Lecturer, School of Computer Science and Electronic Engineering, **University of Essex**, U.K. A2022--now
+* Hononary Senior Lecturer, School of Computer Science and Electronic Engineering, **University of Essex**, U.K. 2022--now
 
 * Lecturer in AI and Robotics,  School of Computer Science and Electronic Engineering, **University of Essex**, U.K. 2019--2022
 
