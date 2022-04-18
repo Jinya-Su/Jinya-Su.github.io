@@ -19,11 +19,9 @@ Education
 
 Employment
 ======
-* Senior Lecturer, Department of Computing Science,  **University of Aberdeen**, U.K. 2022--now
+* Senior Lecturer, School of Natural and Computing Sciences,  **University of Aberdeen**, U.K. 2022--now
 
-* Hononary Senior Lecturer, School of Computer Science and Electronic Engineering, **University of Essex**, U.K. 2022--now
-
-* Lecturer in AI and Robotics,  School of Computer Science and Electronic Engineering, **University of Essex**, U.K. 2019--2022
+* Lecturer and Hononary Senior Lecturer, School of Computer Science and Electronic Engineering, **University of Essex**, U.K. 2019--now
 
 * Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, **Loughborough University**, U.K., 2017—2019
 
