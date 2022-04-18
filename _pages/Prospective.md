@@ -13,15 +13,12 @@ Please read below carefully before contacting me for a possible supervision requ
 
 
 1. **Are you accepting PhD students?**
-
 Yes, I am. 
 
 2. **I am self-funded. Will you accept me straightaway?**
-
 Being self-funded does not guarantee that you can straightway work with me. Your suitability should be assessed such as background and research skills.  
 
 3. **I am an international prospective PhD student. Do you have scholarship/funding to support me?**
-
 Opportunity generally comes and goes. But I will surely advertise the studentship widely.
 
 4. **How can I work with you?**
@@ -31,7 +28,6 @@ Opportunity generally comes and goes. But I will surely advertise the studentshi
  * If you do not receive my response within a week, perhaps you have randomly sent me your documents without even checking my profile.
 
 5. **Can I still apply without contacting you?**
-
 Yes, you can although this is not encouraged. 
 
 6. **What are my minimum entry requirements?**
@@ -40,15 +36,12 @@ Yes, you can although this is not encouraged.
 No. 
 
 8. **Do you accept visiting students or visiting scholars?**
-
 Yes. Please feel free to contact me if you want to visit me. But this is generally self-funded. 
 
 9. **I want an acceptance letter to apply for a scholarhsip, can you please give me one?**
-
 If you write to me requesting an acceptance letter so that you can apply for a scholarship, e.g., Commonwealth Fellowship scheme, the straight answer is NO. The correct procedure is to apply to our PhD programme, pass the interview if shortlisted, and based on your performance in your interview, you will be offered an acceptance letter or not. I cannot just recommend you for a place bypassing all formal requirements.
 
 10. **What is like by working with you?**
-
   * You are free to explore the research topic which you are most passionate about.
   * You are free to build your collaborative research network.
   * I will ever push you in publishing your findings in top publication venues. I will encourage you to attend conferences regularly.
@@ -68,7 +61,6 @@ If you write to me requesting an acceptance letter so that you can apply for a s
 
 
 12. **How can I contact you?**
-
 E-mail at jinya.su@abdn.ac.uk 
 
 
