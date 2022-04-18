@@ -12,14 +12,17 @@ redirect_from:
 Please read below carefully before contacting me for a possible supervision request. 
 
 
-1.  **Are you accepting PhD students?**
+1. **Are you accepting PhD students?**
+
 Yes, I am. 
 
 2. **I am self-funded. Will you accept me straightaway?**
+
 Being self-funded does not guarantee that you can straightway work with me. Your suitability should be assessed such as background and research skills.  
 
 3. **I am an international prospective PhD student. Do you have scholarship/funding to support me?**
-The opportunity generally comes and goes. But I will surely advertise the studentship when it comes at www.jobs.ac.uk among others.
+
+Opportunity generally comes and goes. But I will surely advertise the studentship widely.
 
 4. **How can I work with you?**
  * Please check my profile to identify if your research interests closely align with mine.
@@ -28,7 +31,8 @@ The opportunity generally comes and goes. But I will surely advertise the studen
  * If you do not receive my response within a week, perhaps you have randomly sent me your documents without even checking my profile.
 
 5. **Can I still apply without contacting you?**
-Yes, you can although this is not encouraged. I will carefully review your application if you name me as the potential supervisor and a decision will follow regarding further steps.
+
+Yes, you can although this is not encouraged. 
 
 6. **What are my minimum entry requirements?**
 
@@ -36,9 +40,11 @@ Yes, you can although this is not encouraged. I will carefully review your appli
 No. 
 
 8. **Do you accept visiting students or visiting scholars?**
+
 Yes. Please feel free to contact me if you want to visit me. But this is generally self-funded. 
 
 9. **I want an acceptance letter to apply for a scholarhsip, can you please give me one?**
+
 If you write to me requesting an acceptance letter so that you can apply for a scholarship, e.g., Commonwealth Fellowship scheme, the straight answer is NO. The correct procedure is to apply to our PhD programme, pass the interview if shortlisted, and based on your performance in your interview, you will be offered an acceptance letter or not. I cannot just recommend you for a place bypassing all formal requirements.
 
 10. **What is like by working with you?**
