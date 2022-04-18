@@ -51,7 +51,7 @@ If you write to me requesting an acceptance letter so that you can apply for a s
  * A chance to work with my collaborative network comprising of very talented researchers.
 
 
-* Who is an ideal PhD student in your eyes?
+11. **Who is an ideal PhD student in your eyes?**
  * Hard working
  * Passionate
  * Dedicated
@@ -61,20 +61,7 @@ If you write to me requesting an acceptance letter so that you can apply for a s
  * Exercises everyday
 
 
-* How can I contact you?
+12. **How can I contact you?**
 E-mail at jinya.su@abdn.ac.uk 
 
-
-
-
-Guest editor
-======
-
-5.	Jun Yang, Chuanlin Zhang, Jianliang Mao, Jinya Su, “Special Issue on Intelligent Perception and Advanced Control of Robotics and Autonomous Systems Under Uncertainties: Methodologies and Implementations”, Transactions of the Institute of Measurement and Control (TIMC), (IF: 1.796).
-
-4. Shengquan Li, Jinya Su, Huimin Ouyang, “[Special Issue on Control in Mechanical-electrical Energy Conversion System](https://www.mdpi.com/journal/energies/special_issues/Mechanical_electrical_Energy_Conversion_System)” , Energies, (IF: 3.004). Deadline: 1/Dec/2022. 
-
-3.	Jinya Su, Cunjia Liu and Clark Adrian [Remote Sensing for Smart Agriculture Management](https://www.mdpi.com/journal/remotesensing/special_issues/smart_agri_management), Remote Sensing (IF: 4.5), Deadline: 30-May-2022
-
-2.	Hao Hu, Jinya Su, Jingdong Ma, “[Internet Hospital Innovation: Technology, Service, and Policy](https://www.frontiersin.org/research-topics/14612/smart-hospital-innovation-technology-service-and-policy)”, Frontiers in Public Health (section: digital public health), closed.
 
