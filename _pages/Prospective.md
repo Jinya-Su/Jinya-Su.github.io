@@ -13,42 +13,35 @@ Please read below carefully before contacting me for a possible supervision requ
 
 
 1.  **Are you accepting PhD students?**
+Yes, I am. 
 
-Yes, I am. Now I am a bit careful before accepting one given I already have a big team to handle including my research.
+2. **I am self-funded. Will you accept me straightaway?**
+Being self-funded does not guarantee that you can straightway work with me. Your suitability should be assessed such as background and research skills.  
 
-* I am self-funded. Will you accept me straightaway?
+3. **I am an international prospective PhD student. Do you have scholarship/funding to support me?**
+The opportunity generally comes and goes. But I will surely advertise the studentship when it comes at www.jobs.ac.uk among others.
 
-Being self-funded does not guarantee that you can work with me. I need to assess your research skills before admitting you to my team. 
-
-* I am an international prospective PhD student. Do you have scholarship/funding to support me?
-
-The opportunity generally comes and goes. But I will surely advertise when it comes. 
-
-
-* How can I work with you?
-
+4. **How can I work with you?**
  * Please check my profile to identify if your research interests closely align with mine.
- * Send me your CV and a short research proposal.
+ * Send me your detailed CV and a short research proposal.
  * Wait for my response.
  * If you do not receive my response within a week, perhaps you have randomly sent me your documents without even checking my profile.
 
-* Can I still apply without contacting you?
-Yes, you can. However, if you want to work with me, please mention my name as your potential supervisor in your application. You can apply here . I will carefully review your application and a decision will follow regarding further steps.
+5. **Can I still apply without contacting you?**
+Yes, you can although this is not encouraged. I will carefully review your application if you name me as the potential supervisor and a decision will follow regarding further steps.
 
-* What are my minimum entry requirements?
+6. **What are my minimum entry requirements?**
 
-* Do you accept short-term interns?
+7. **Do you accept short-term interns?**
+No. 
 
-Usually, I do not. Given what COVID-19 has taught us, I can discuss a possible remote "unpaid" internship setup with you where you can work on research problems in your campus and I can remotely supervise you. If you do a good job, e.g., you publish a paper at a competitive venue, I will not hesitate to write a letter of recommendation for you.
+8. **Do you accept visiting students or visiting scholars?**
+Yes. Please feel free to contact me if you want to visit me. But this is generally self-funded. 
 
-* Do you accept visiting students?
-Yes, I do. Please feel free to contact me regarding this further.
+9. **I want an acceptance letter to apply for a scholarhsip, can you please give me one?**
+If you write to me requesting an acceptance letter so that you can apply for a scholarship, e.g., Commonwealth Fellowship scheme, the straight answer is NO. The correct procedure is to apply to our PhD programme, pass the interview if shortlisted, and based on your performance in your interview, you will be offered an acceptance letter or not. I cannot just recommend you for a place bypassing all formal requirements.
 
-* I want an acceptance letter to apply for a scholarhsip, can you please give me one?
-
-If you write to me requesting an acceptance letter so that you can apply for a scholarship, e.g., Commonwealth Fellowship scheme, the straight answer is NO. The correct procedure is to apply to our PhD programme, pass my interview if shortlisted, and based on your performance in your interview, you will be offered an acceptance letter. I cannot just recommend you for a place bypassing all formal requirements.
-
-* What is like by working with you?
+10. **What is like by working with you?**
 
  * You are free to explore the research topic which you are most passionate about.
  * You are free to build your collaborative research network.
