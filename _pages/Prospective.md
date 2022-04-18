@@ -70,7 +70,6 @@ NO. The correct procedure is to apply to our PhD programme, pass the interview i
   * Smiles on failures, but knows how to defeat failure
   * Exercises everyday
 
-
 13. **How can I contact you?**
 E-mail at jinya.su@abdn.ac.uk 
 
