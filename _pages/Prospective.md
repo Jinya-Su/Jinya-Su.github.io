@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Professional activities"
-permalink: /professional/
+title: "Prospective students"
+permalink: /Prospective/
 author_profile: true
 redirect_from:
   - /resume
