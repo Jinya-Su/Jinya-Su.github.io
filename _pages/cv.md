@@ -19,15 +19,15 @@ Education
 
 Employment
 ======
-* Senior Lecturer, Department of Computing,  **University of Aberdeen**, U.K. Apr/2022--now
+* Senior Lecturer, Department of Computing Science,  **University of Aberdeen**, U.K. 2022--now
 
-* Hononary Senior Lecturer, School of Computer Science and Electronic Engineering, **University of Essex**, U.K. Apr/2022--now
+* Hononary Senior Lecturer, School of Computer Science and Electronic Engineering, **University of Essex**, U.K. A2022--now
 
-* Lecturer in AI and Robotics,  School of Computer Science and Electronic Engineering, **University of Essex**, U.K. Sep/2019--Apr/2022
+* Lecturer in AI and Robotics,  School of Computer Science and Electronic Engineering, **University of Essex**, U.K. 2019--2022
 
-* Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, **Loughborough University**, U.K., Jan/2017—Jul/2019
+* Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, **Loughborough University**, U.K., 2017—2019
 
-* Part-time Research Associate in Autonomous Vehicles, **Loughborough University**, U.K., Oct/2015—Dec/2016
+* Part-time Research Associate in Autonomous Vehicles, **Loughborough University**, U.K., 2015—2016
 
 
 Selected honors and awards (since 2012)
