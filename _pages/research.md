@@ -23,7 +23,6 @@ Publications (2013-now)
 
 
 PI/CoI projects
-
 ======
 * **University of Essex** (2019-now)
 
