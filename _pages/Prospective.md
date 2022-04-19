@@ -16,7 +16,7 @@ Please read below carefully before contacting me for a possible supervision requ
 Yes. 
 
 2. **Do you have PhD scholarship/funding to support me?**
-Opportunity generally comes and goes. But I will surely advertise the studentship widely. Otherwise, you have to do a self-funded PhD (e.g. family, government, industry, etc.), which is very common in the U.K., particularly for international students. If you are a Chinese, you may consider the [China Scholarship Council (CSC) Scholarship](https://www.abdn.ac.uk/study/funding/348). 
+Opportunity generally comes and goes. But I will surely advertise the studentship widely. Otherwise, you have to seek your own funding or sponsorship (e.g. family, government, industry, etc.), which is very common in the U.K., particularly for international students. If you are a Chinese, you may consider the [China Scholarship Council (CSC) Scholarship](https://www.abdn.ac.uk/study/funding/348). 
 
 3. **I am self-funded. Will you accept me straightaway?**
 Being self-funded does not mean that you get the PhD offer and can straightway work with me. Your suitability should be assessed as usual such as education and research background.  
@@ -31,20 +31,19 @@ Being self-funded does not mean that you get the PhD offer and can straightway w
 Yes, you can, but this is not encouraged. 
 
 6. **What are my minimum entry requirements?**
-Candidates should have (or expect to achieve) a UK honours degree at 2.1 or above (or equivalent) in Computer Science, Statistics, Electrical and Electronic Engineering, Systems Engineering or equivalent experience. 
+Selection will be made on the basis of academic merit. Candidates should have (or expect to achieve) a UK honours degree at 2.1 or above (or equivalent) in Computer Science, Mathematics, Statistics, Electrical and Electronic Engineering, Systems Engineering, Automation or equivalent experience. 
 
 7. **How much will it cost me**
 Please check [online](https://www.abdn.ac.uk/study/international/finance.php)
 
 8. **What is the application procedure for self-funded PhD**
-  * Formal applications can be completed [online](https://www.abdn.ac.uk/pgap/login.php)
+  * Formal applications: check [How to Apply](https://www.abdn.ac.uk/study/postgraduate-research/how-to-apply-1639.php) and then completed [online](https://www.abdn.ac.uk/pgap/login.php)
   * Apply for Degree of Doctor of Philosophy in Computing Science
-  * State name of the lead supervisor as the Name of Proposed Supervisor
+  * State name of the lead supervisor (Jinya Su) as the Name of Proposed Supervisor
   * State ‘Self-funded’ as Intended Source of Funding
   * State the exact project title on the application form
-  * When applying please ensure all required documents are attached:
-  * All degree certificates and transcripts (Undergraduate AND Postgraduate MSc-officially translated into English where necessary)
-  * Detailed CV, Personal Statement and Intended source of funding
+  * When applying please ensure all required documents are attached: All degree certificates and transcripts (Undergraduate AND Postgraduate MSc-officially translated into English where necessary); Detailed CV, Personal Statement and Intended source of funding.
+  * Informal inquiries can be made to me (jinya.su@abdn.ac.uk) with a copy of your curriculum vitae and cover letter. All general enquiries should be directed to the Postgraduate Research School (pgrs-admissions@abdn.ac.uk)
 
 9. **Do you accept short-term interns?**
 No. 
