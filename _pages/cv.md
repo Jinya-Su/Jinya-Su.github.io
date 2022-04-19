@@ -15,7 +15,7 @@ Education
 * PhD in Aeronautical & Automotive Engineering, **Loughborough University** (Top 10 UK University), U.K., Dec. 2016 
   * Supervisors: Prof. [Wen-Hua Chen](https://www.lboro.ac.uk/departments/aae/staff/wen-hua-chen/) (EPSRC Established Career Fellowship, IEEE/IET/FIMechE Fellow) and Prof. [Baibing Li](https://www.lboro.ac.uk/departments/sbe/staff/baibing-li/)
 
-* Bachelor in Applied Mathematics, **Shandong University**, China, Jul. 2011
+<!---* Bachelor in Applied Mathematics, **Shandong University**, China, Jul. 2011-->
 
 Employment
 ======
@@ -23,9 +23,9 @@ Employment
 
 * Lecturer and Hononary Senior Lecturer, School of Computer Science and Electronic Engineering, **University of Essex**, U.K. 2019--now
 
-* Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, **Loughborough University**, U.K., 2017—2019
+<!---* Postdoctoral Research Associate in Autonomous Information Processing for Agri-Tech, **Loughborough University**, U.K., 2017—2019
 
-* Part-time Research Associate in Autonomous Vehicles, **Loughborough University**, U.K., 2015—2016
+* Part-time Research Associate in Autonomous Vehicles, **Loughborough University**, U.K., 2015—2016-->
 
 
 Selected honors and awards (since 2012)
