@@ -36,7 +36,7 @@ Candidates should have (or expect to achieve) a UK honours degree at 2.1 or abov
 7. **How much will it cost me**
 Please check [online](https://www.abdn.ac.uk/study/international/finance.php)
 
-7. **What is the application procedure for self-funded PhD**
+8. **What is the application procedure for self-funded PhD**
   * Formal applications can be completed [online](https://www.abdn.ac.uk/pgap/login.php)
   * Apply for Degree of Doctor of Philosophy in Computing Science
   * State name of the lead supervisor as the Name of Proposed Supervisor
@@ -46,29 +46,29 @@ Please check [online](https://www.abdn.ac.uk/study/international/finance.php)
   * All degree certificates and transcripts (Undergraduate AND Postgraduate MSc-officially translated into English where necessary)
   * Detailed CV, Personal Statement and Intended source of funding
 
-8. **Do you accept short-term interns?**
+9. **Do you accept short-term interns?**
 No. 
 
-9. **Do you accept visiting students or visiting scholars?**
+10. **Do you accept visiting students or visiting scholars?**
 Yes. Please feel free to contact me if you want to visit me. But this is generally self-funded. 
 
-10. **I want an acceptance letter to apply for a scholarhsip, can you please give me one?**
+11. **I want an acceptance letter to apply for a scholarhsip, can you please give me one?**
 NO. The correct procedure is to apply to our PhD programme, pass the interview if shortlisted, and based on your performance in your interview, you will be offered an acceptance letter or not. I can NOT just recommend you for a place bypassing all formal requirements.
 
-11. **What is like by working with you?**
+12. **What is like by working with you?**
   * You are free to explore the research topic widely and responsibly.
   * A chance to work with my collaborative network both nationally and internationally.
   * I will help you in disseminating your research findings in top publication venues. 
   * I will offer you suitable part-time research associate position via the research funding.
 
 
-12. **Who is an ideal PhD student in your eyes?**
+13. **Who is an ideal PhD student in your eyes?**
   * Well motivated 
   * Ready to learn 
   * Dedicated
   * Responsible
 
-13. **How can I contact you?**
+14. **How can I contact you?**
 E-mail at jinya.su@abdn.ac.uk 
 
 
