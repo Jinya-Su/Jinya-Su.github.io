@@ -68,6 +68,6 @@ NO. The correct procedure is to apply to our PhD programme, pass the interview i
   * Responsible
 
 14. **How can I contact you?**
-E-mail at jinya.su@abdn.ac.uk 
+E-mail at jysu1990@gmail.com
 
 
