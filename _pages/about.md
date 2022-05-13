@@ -22,13 +22,14 @@ Dr Jinya Su is a Senior Lecturer in the U.K., Associate Professor equivalently i
 
 <!---He was a Postdoc at [LUCAS Group](http://www.lucasresearch.co.uk/) from Oct/2015-Jul/2019. -->
 
-He has published [60+ journal (40+) and conference papers](https://jinya-su.github.io//research/) in Control Engineering, AI and robotics and their applications in industrial inspection. He has received the [Outstanding Early Career Researcher Award from UoE (2020)](https://www.essex.ac.uk/research/celebrating-our-researchers/2020). He was a guest editor for IEEE, SAGE, Frontier journals/Remote Sensing, Book reviewer for Elsevier and CRC press; proposal reviewer for EPSRC and BARD. Please check [Biography](https://jinya-su.github.io//cv/) for more information. 
+He has published [60+ journal (45+) and conference papers](https://jinya-su.github.io//research/) in Control Engineering, AI and robotics and their applications in industrial inspection (e.g. precision agriculture, solar farm). He has received the [Outstanding Early Career Researcher Award from UoE (2020)](https://www.essex.ac.uk/research/celebrating-our-researchers/2020). He was a guest editor for IEEE, SAGE, Frontier journals/Remote Sensing, Book reviewer for Elsevier, CRC, Wiley press; proposal reviewer for EPSRC and BARD. Please check [Biography](https://jinya-su.github.io//cv/) for more information. 
 
+If you want to do a PhD with me, please check [Prospective Students](https://jinya-su.github.io//Prospective/) for more information. 
 
+<!---
 **Academic motto**
 1. If you have two theories that both explain the observed facts, then you should use the simplest until more evidence comes along --Occam's razor
-2. Get the physics right, the rest is mathematics. --Rudolf E. Kálmán, on IFAC congress 2008.
-
+2. Get the physics right, the rest is mathematics. --Rudolf E. Kálmán, on IFAC congress 2008. -->
 
 <!---
 **Vacancies**
