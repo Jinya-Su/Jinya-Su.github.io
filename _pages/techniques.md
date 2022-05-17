@@ -24,7 +24,11 @@ Techniques
 
 * R program
 
-    * Installation: [Step 1 download R](https://cran.r-project.org/bin/windows/base/); [Step 2 download RStudio](https://www.rstudio.com/products/rstudio/download/#download); [run as an administrator for package installing ](https://community.rstudio.com/t/unable-to-install-packages-create-library/43031/4); getwd(), setwd() to setup working dictionary. install.packages("pls")
+    * Installation: 
+    [Step 1 download R](https://cran.r-project.org/bin/windows/base/); 
+    [Step 2 download RStudio](https://www.rstudio.com/products/rstudio/download/#download); 
+    [run as an administrator for package installing ](https://community.rstudio.com/t/unable-to-install-packages-create-library/43031/4); getwd(), setwd() to setup working dictionary. install.packages("pls")
+    update R, you only need to download the updated R via Step 1, open the RStudio, then it works. 
 
     * [UCL R Resources](https://www.ucl.ac.uk/~uctqiax/PUBLG100/2015/resources.html)
 
