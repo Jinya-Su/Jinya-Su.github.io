@@ -19,7 +19,7 @@ Research group
 
 
 <!-- University of Essex -->
-====
+
 ## Research officer (or associate)
 
 |Names|Years |Projects|Now|
