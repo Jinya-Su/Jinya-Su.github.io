@@ -19,7 +19,7 @@ Education
 
 Employment
 ======
-<!---* Senior Lecturer, School of Natural and Computing Sciences,  **University of Aberdeen**, U.K. 2021--now -->
+* Senior Lecturer, School of Natural and Computing Sciences,  **University of Aberdeen**, U.K. 2022--now
 
 * Lecturer and Hononary Senior Lecturer, School of Computer Science and Electronic Engineering, **University of Essex**, U.K. 2019--now
 
