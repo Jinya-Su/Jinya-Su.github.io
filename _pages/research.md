@@ -13,7 +13,7 @@ Core Research Interests
 ======
 - Intelligent autonomous systems: situational awareness and robust control under uncertainties;
 - Aerial Robotics for industrial inspection (solar farm, rail trackside vegetation); 
-- Satellite/UAV/Ground remote/proximal sensing for precision agriculture; 
+- Satellite/UAV/Ground remote/proximal sensing, and robotics systems for precision agriculture; 
 - Intelligent Vehicle: AI based driving behaviour analysis (minior); 
 - AI/Statistics in health management (minor)
 
