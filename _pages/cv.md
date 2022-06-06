@@ -28,6 +28,8 @@ Employment
 * Part-time Research Associate in Autonomous Vehicles, **Loughborough University**, U.K., 2015—2016-->
 
 
+<!---
+
 Selected honors and awards (since 2012)
 ======
 
@@ -49,7 +51,7 @@ Selected honors and awards (since 2012)
 
    1. 2012: **_EPSRC Full PhD Studentship_** (75K GBP: tuition fee + stipend) 
   
-<!---
+
 
 Publications
 ======
