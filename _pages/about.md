@@ -18,7 +18,7 @@ redirect_from:
   gtag('config', 'G-02JZMVLJ6T');
 </script>
 
-Dr Jinya Su is a Senior Lecturer at University of Aberdeen, U.K., Associate Professor equivalently in the U.S. system, since 2021. He received the PhD degree in [Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/), Loughborough University, U.K. in 2016, where his PhD study was fully funded by EPSRC PhD studentship. 
+Dr Jinya Su is a Senior Lecturer in the U.K., Associate Professor equivalently in the U.S. system, since 2021. He received the PhD degree in [Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/), Loughborough University, U.K. in 2016, where his PhD study was fully funded by EPSRC PhD studentship. 
 
 <!---He was a Postdoc at [LUCAS Group](http://www.lucasresearch.co.uk/) from Oct/2015-Jul/2019. -->
 
