@@ -14,6 +14,7 @@ Interesting links
 * 张载(1020—1077年)：横渠四句 ![My helpful screenshot](/images/zhangzai.jpg)
 * 吕蒙正(944-1011年) [破窑赋](http://people.brunel.ac.uk/~csstzzw/bad.html) ![My helpful screenshot](/images/yaofupo.JPG)
 * [人·心·不·足·蛇·吞·象](http://www.mae.cuhk.edu.hk/~bmchen/dayoushi.html)
+* [低调]（http://www.mae.cuhk.edu.hk/~bmchen/oldsayings.html）
 
 
 Researchers
